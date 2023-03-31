@@ -1,0 +1,6 @@
+2023-03-31 20:31:37,848 - [INFO] - __main__ - (main.py).<module>(7) - Info-level message
+2023-03-31 20:31:37,848 - [WARNING] - __main__ - (main.py).<module>(8) - Warning-level message
+2023-03-31 20:31:37,848 - [ERROR] - __main__ - (main.py).<module>(9) - Error-level message
+2023-03-31 20:34:20,947 - [INFO] - __main__ - (main.py).<module>(9) - Info-level message
+2023-03-31 20:34:20,947 - [WARNING] - __main__ - (main.py).<module>(10) - Warning-level message
+2023-03-31 20:34:20,947 - [ERROR] - __main__ - (main.py).<module>(11) - Error-level message
